@@ -16,8 +16,10 @@
     "NSDate": true,
     "NSDataBase64EncodingEndLineWithCarriageReturn": true,
     "NSData": true,
+    "NSDocumentController": true,
     "NSMakeRange": true,
     "NSMutableAttributedString": true,
+    "NSUTF8StringEncoding": true,
     "context": true
   },
   "rules": {
