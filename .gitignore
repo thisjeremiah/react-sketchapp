@@ -2,7 +2,7 @@
 .DS_Store
 *.log*
 node_modules
-lib
+# lib
 react-example.sketchplugin
 _book
 .vscode
